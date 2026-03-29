@@ -1,0 +1,7 @@
+{
+  "prompt": "Same composition as before — a large crowd of identical children's silhouettes filling the frame, warm amber light on the left side making those children solid and fully present. But on the right side, the children must not simply be dark or shadowed — they must be visually dissolving, fragmenting, their outlines breaking apart and fading into the background texture, as if their bodies are made of ash or dust that is slowly dispersing. The rightmost figures should be barely distinguishable from the background — not black silhouettes, but crumbling, eroding shapes losing their form. The ground beneath them on the right should also fade to nothing. No text. No labels. No numbers. No maps. No borders. Deep charcoal textured background. The feeling is irreversible loss — children eroding out of existence. Single frame, magazine editorial, cinematic.",
+  "model": "DALL-E 3 via ChatGPT",
+  "dataset_name": "UNICEF State of the World's Children 2021 — Statistical Tables, Table 8: Nutrition",
+  "dataset_url": "https://data.unicef.org/resources/sowc-2021/",
+  "insight": "In Burundi, 58% of children under 5 are permanently stunted by hunger — more than half a generation erased — while in Estonia the rate is 1%, making where you are born the single greatest determinant of a child's physical future."
+}
